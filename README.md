@@ -9,7 +9,7 @@ Bu proje, Python'ın yerleşik veri türleri (`list`, `set`, `str`, `tuple` ve `
 
 ## Kurulum
 
-Bu projeyi kullanmak için Python 3.x yüklü olmalıdır. Projeyi klonlayarak veya zip dosyasını indirerek kullanabilirsiniz.
+Bu projeyi kullanmak için Python 3.11.7 yüklü olmalıdır. Projeyi klonlayarak veya zip dosyasını indirerek kullanabilirsiniz.
 
 ## Katkıda Bulunma
 Eğer projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin:
